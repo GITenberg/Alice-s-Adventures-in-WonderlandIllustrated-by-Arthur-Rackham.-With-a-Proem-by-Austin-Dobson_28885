@@ -1,0 +1,43 @@
+_repo: Alice-s-Adventures-in-WonderlandIllustrated-by-Arthur-Rackham.-With-a-Proem-by-Austin-Dobson_28885
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rackham, Arthur
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '6335'
+    url: http://www.gutenberg.org/2009/agents/6335
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Rackham
+covers:
+- cover_type: archival
+  image_path: 28885-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: '"It is a hot afternoon and Alice is bored. She follows a White Rabbit
+  down a rabbit hole and arrives in a strange place called Wonderland. Here nothing
+  is as it seems: animals can talk, cakes and drinks can make you bigger and smaller
+  and the Queen of Hearts can cut off your head."--P. [4] of cover.'
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+title: 'Alice''s Adventures in Wonderland
+
+  Illustrated by Arthur Rackham. With a Proem by Austin Dobson'
+url: http://www.gutenberg.org/ebooks/28885
